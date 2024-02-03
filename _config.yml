@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : " Graduate Research Assistant @ HArt Lab "
   avatar           : "profile.png"
-  bio              : " Graduate Research Assistant @ HArt Lab "
+  bio              : 
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
