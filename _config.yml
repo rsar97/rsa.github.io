@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : " Graduate Research Assistant @ HArt Lab "
+  name             : 
   avatar           : "profile.png"
-  bio              : 
-  location         : "Location"
+  bio              : "Graduate Research Assistant @ HArt Lab "
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
