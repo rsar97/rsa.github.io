@@ -12,12 +12,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 17px;">B.Tech. in GitHub, GitHub University, 2012</span>
-  <p style="font-size: 14px;">Amrita School of Engineering, Coimbatore</p>
-##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">B.Tech. in GitHub, GitHub University, 2012</span>
-  <p style="font-size: 14px;">Goerge Mason University, Fairfax</p>
-##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">B.Tech. in GitHub, GitHub University, 2012</span>
-  <p style="font-size: 14px;">Goerge Mason University, Fairfax</p>
+##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 17px;">Ph.D. in Electrical and Computer Engineering, Jan 2023 - Present</span>
+  <p style="font-size: 14px;">George Mason University, Fairfax, Virginia<</p>
+##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">MS (Thesis) in Computer Engineering, Specialization in Digital System Design, Aug 21 - Dec 23</span>
+  <p style="font-size: 14px;">George Mason University, Fairfax</p>
+##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">B.Tech. in Electrical and Communication Engineering, May 2015 - May 2019</span>
+  <p style="font-size: 14px;">Amrita Vishwa Vidyapeetham</p>
 
 Getting started
 ======
