@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral student in the [Electrical and Computer Engineering Department](https://ece.gmu.edu/) at George Mason University. I have been associated with the Hardware Security and Artificial Intelligence [HArt](http://mason.gmu.edu/~spudukot/) lab from Spring 2022 as a Master's student and converted to Ph.D. program in Spring 2023. I received my Bachelor of Technology in Electronics and Communication from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), India in 2019.
+I am a Doctoral student in the [Electrical and Computer Engineering Department](https://ece.gmu.edu/) at George Mason University. I have been associated with the Hardware Security and Artificial Intelligence [(HArt)](http://mason.gmu.edu/~spudukot/) lab from Spring 2022 as a Master's student and converted to Ph.D. program in Spring 2023. I received my Bachelor of Technology in Electronics and Communication from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), India in 2019.
 
 Education
 ======
