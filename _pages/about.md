@@ -39,8 +39,8 @@ News Feed
   - I have joinsed Hart lab as a PhD student
 
 **2022**
-- I will be TA;ing for
-- I will be pursuing my thesis under dr sai joined hart lab
+  - I will be TAing for
+  - I will be pursuing my thesis under dr sai joined hart lab
 
 **2021**
   - I am CEC
