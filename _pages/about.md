@@ -20,18 +20,23 @@ Education
 ##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 17px;">Ph.D. in Electrical and Computer Engineering, Jan 2023 - Present</span>
   <p style="font-size: 14px;">George Mason University, Fairfax, Virginia</p>
 ##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">MS (Thesis) in Computer Engineering,  Aug 21 - Dec 23</span>
-  <p style="font-size: 14px;">George Mason University, Fairfax</p>
+  <p style="font-size: 14px;">George Mason University, Fairfax, Virginia</p>
 ##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 17px;">B.Tech. in Electrical and Communication Engineering, May 2015 - May 2019</span>
-  <p style="font-size: 14px;">Amrita Vishwa Vidyapeetham</p>
+  <p style="font-size: 14px;">Amrita Vishwa Vidyapeetham, Coimbatore, India</p>
 
-Getting started
+News Feed
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**2024**
+- I have passed the Technical Qualifying Exam (TQE) as a requirement for Ph.D Qualification
+**2023**
+  - I graduated with MS in Computer Engineering, specialized in Digital System Design
+  - I have successfully passed my Research Qualifying Exam (RQE) as a requirement for Ph.D Qualification
+  - I will be visiting CFAED, TUD as a Guest Researcher,
+  - I will be presenting "" paper at ISCAS 2023
+  - I have successfully defended my Thesis
+  - The work "" is accepted as ISCAS
+  - I have joinsed Hart lab as a PhD student
+   
 
 Site-wide configuration
 ------
