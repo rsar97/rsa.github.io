@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-##### <i class="fa fa-graduation-cap fa_custom"></i>   B.Tech. in GitHub, GitHub University, 2012
+##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 15px;">B.Tech. in GitHub, GitHub University, 2012</span>
   <p style="font-size: 16px;">Amrita School of Engineering, Coimbatore</p>
 ##### <i class="fa fa-graduation-cap fa_custom"></i> M.S. in Jekyll, GitHub University, 2014
   <p style="font-size: 16px;">Goerge Mason University, Fairfax</p>
