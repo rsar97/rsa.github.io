@@ -37,6 +37,14 @@ News Feed
   - I have successfully defended my Thesis
   - The work "" is accepted as ISCAS
   - I have joinsed Hart lab as a PhD student
+
+**2022**
+- I will be TA;ing for
+- I will be pursuing my thesis under dr sai joined hart lab
+
+  **2021**
+  - I am CEC
+  - Joinm GMU
    
 
 Site-wide configuration
