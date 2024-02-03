@@ -12,12 +12,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 20px;">B.Tech. in GitHub, GitHub University, 2012</span>
+##### <i class="fa fa-graduation-cap fa_custom"></i>   <span style="font-size: 16px;">B.Tech. in GitHub, GitHub University, 2012</span>
   <p style="font-size: 14px;">Amrita School of Engineering, Coimbatore</p>
-##### <i class="fa fa-graduation-cap fa_custom"></i> M.S. in Jekyll, GitHub University, 2014
-  <p style="font-size: 16px;">Goerge Mason University, Fairfax</p>
-##### <i class="fa fa-graduation-cap fa_custom"></i> Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-  <p style="font-size: 16px;">Goerge Mason University, Fairfax</p>
+##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 16px;">B.Tech. in GitHub, GitHub University, 2012</span>
+  <p style="font-size: 14px;">Goerge Mason University, Fairfax</p>
+##### <i class="fa fa-graduation-cap fa_custom"></i>  <span style="font-size: 16px;">B.Tech. in GitHub, GitHub University, 2012</span>
+  <p style="font-size: 14px;">Goerge Mason University, Fairfax</p>
 
 Getting started
 ======
