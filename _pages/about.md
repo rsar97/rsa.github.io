@@ -42,7 +42,7 @@ News Feed
 - I will be TA;ing for
 - I will be pursuing my thesis under dr sai joined hart lab
 
-  **2021**
+**2021**
   - I am CEC
   - Joinm GMU
    
