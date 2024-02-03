@@ -28,6 +28,7 @@ News Feed
 ======
 **2024**
 - I have passed the Technical Qualifying Exam (TQE) as a requirement for Ph.D Qualification
+  
 **2023**
   - I graduated with MS in Computer Engineering, specialized in Digital System Design
   - I have successfully passed my Research Qualifying Exam (RQE) as a requirement for Ph.D Qualification
